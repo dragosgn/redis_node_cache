@@ -1,1 +1,1 @@
-# redis_node_cache
+# Caching using redis
